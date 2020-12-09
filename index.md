@@ -7,6 +7,11 @@ nav_order: 1
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
+# Welcome to Data Driven Stories.
+A Relevant Research Series workshop.
+
+## Content coming soon - stay tuned!
+
 <!--
 <img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
 
