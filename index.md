@@ -10,7 +10,7 @@ nav_order: 1
 # Welcome to Data Driven Stories.
 A Relevant Research Series workshop.
 
-## Content coming soon - stay tuned!
+## Content coming January 11, 2021 - stay tuned!
 
 <!--
 <img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
