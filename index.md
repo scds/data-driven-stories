@@ -9,7 +9,7 @@ nav_order: 1
 ## Full content available January 11, 2021 - check back soon!
 <img src="assets/img/RelevantResearchEmailImage_v2.png" alt="Workshop title image with headshot of Roberto Rocha" width="500">
 # Telling a data-driven story from start to finish.
-*A Relevant Research Series workshop prepared by [Roberto Rocha](https://robertorocha.info/), Data Journalist, [CBC/Radio Canada](https://www.cbc.ca/news/canada/montreal/roberto-rocha-1.3527929)*.
+**A Relevant Research Series workshop prepared by [Roberto Rocha](https://robertorocha.info/), Data Journalist, [CBC/Radio Canada](https://www.cbc.ca/news/canada/montreal/roberto-rocha-1.3527929)**.
 
 In this workshop, you'll be taken through all the steps of the creation of a data-driven story, from obtaining the data, to listing possible story ideas.
 
