@@ -13,7 +13,7 @@ nav_order: 1
 
 In this workshop, you'll be taken through all the steps of the creation of a data-driven story, from obtaining the data, to listing possible story ideas.
 
-We'll be using Google Community Mobility data for Canadian provinces to see which places have changed their movements the most (or least) throughout the Covid-19 pandemic so far.
+We'll be using [Google Community Mobility data](https://www.google.com/covid19/mobility/) for Canadian provinces to see which places have changed their movements the most (or least) throughout the Covid-19 pandemic so far.
 
 This is a process that has worked for me during seven years as a data journalist. However, it's not necessarily the best method and certainly not the only method. I developed it over years of trial and error, borrowing parts from other news organizations and from data science courses I've taken.
 
