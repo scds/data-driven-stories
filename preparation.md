@@ -21,7 +21,7 @@ For this workshop, we'll be working with Google mobility data made available thr
 
 Before downloading data, take some time to explore the website. Read the [documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en). Understand a bit what's in the data, what to expect, how it was collected. 
 
-You can download the dataset for this workshop by clicking on the ![download button](assets/img/region-csv.PNG?s=100) link. It will download a zip file with detailed data for every country tracked by Google. For this workshop, we're interested only in the Canadian dataset (```2020_CA_Region_Mobility_Report.csv```). Once the file is downloaded, unzip the whole folder, or drag out the Canadian file into another folder to extract the single file. 
+You can download the dataset for this workshop by clicking on the **Region CSVs** link. It will download a zip file with detailed data for every country tracked by Google. For this workshop, we're interested only in the Canadian dataset (```2020_CA_Region_Mobility_Report.csv```). Once the file is downloaded, unzip the whole folder, or drag out the Canadian file into another folder to extract the single file. 
 
 
 
