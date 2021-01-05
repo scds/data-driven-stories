@@ -23,8 +23,32 @@ Before downloading data, take some time to explore the website. Read the [docume
 
 You can download the dataset for this workshop by clicking on the **Region CSVs** link. It will download a zip file with detailed data for every country tracked by Google. For this workshop, we're interested only in the Canadian dataset (```2020_CA_Region_Mobility_Report.csv```). Once the file is downloaded, unzip the whole folder, or drag out the Canadian file into another folder to extract the single file. 
 
+### A note about encoding
+When you open the CSV in a spreadsheet, you may see off-looking characters in some of the columns as shown below:  
+```La C��te-de-Gasp�� Regional County Municipality```
 
+That's a character encoding issue. Spreadsheets assume an imported file has a certain character encoding, usually UTF-8. The Google data comes as UTF-8 with BOM, so this needs to be specified when you import the CSV. Follow the instructions below to import the data properly into Google Sheets and Excel: 
 
+#### In Google Sheets
+Google Sheets doesn't let you specify the encoding, so you have to re-encode the CSV in a text editor, save it, and re-import. Instead, you need to use a text editor (like [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.2/)) to open the CSV file, change the encoding, and resave. 
+To do this in Notepad++: 
+* Open the csv file in Notepad++
+* Under the **Encoding** tab, choose **UTF-8 BOM**. Save the file.
+<img src="assets/img/notepad-encoding.png" alt="Window showing encoding change in Notepad++" width="500">
 
+* Import the converted file in Google Sheets by opening a new Google Sheet and selecting ```File>Import``` and uploading it.
 
-Proceed to [Part 1]() of the workshop to being exploring the data.
+#### In Excel
+In Excel, you can specify the character encoding at the time of import using the **Text/CSV** import function.
+* Open a blank Excel workbook
+* In the **Data** tab, select to import **From Text/CSV**
+* When the import wizard appears, change the value of **File Origin** to ```650001: Unicode (UTF-8)```
+* Click **Load** to import it into the spreadsheet
+<img src="assets/img/excel-import.png" alt="Excel data import tool window" width="500">
+
+### If you run into trouble
+If you are unable to open the csv with proper encoding, use one of the links below to get a properly encoded version: 
+* [Google Sheets file](https://docs.google.com/spreadsheets/d/1IbTXQFJ4JPQB4OS2TwrUu-QpbJJl5t8Ntc40sh7udO0/copy); Click **Make a copy**.
+* [Excel xlsx file](https://github.com/scds/data-driven-stories/raw/main/assets/data/2020_CA_Region_Mobility_Report.xlsx)
+
+Once you have the file open as a spreadsheet, proceed to [Part 1]() of the workshop to being exploring the data.
