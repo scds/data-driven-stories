@@ -3,10 +3,28 @@ layout: default
 title: Preparation
 nav_order: 2
 ---
+## Content coming soon - stay tuned!
+
+# Workshop preparation 
+This workshop assumes you have a basic knowledge of spreadsheets and some basic math/stats knowledge. Preparing for this workshop consists of two steps: [Getting the software](#get-the-software) and [Getting the data](#get-the-data). Follow the steps below. 
+  
+## Get the software
+The following software is required or recommended for this tutorial: 
+* [**required**] Spreadsheet software. This tutorial will use the web browser-based [Google Sheets](https://docs.google.com/spreadsheets/u/0/), though you should be able to achieve similar results with desktop programs like Microsoft Excel or [LibreOffice Calc](https://www.libreoffice.org/).
+* [**required**] [Tableau Public](https://public.tableau.com/en-us/s/)--a free version of the Tableau data visualization and analysis software. 
+* [**optional**] A text editor to convert the character encoding in the data file. [Notepad++](https://notepad-plus-plus.org/) is recommended for Windows, while [SublimeText](https://www.sublimetext.com/2) or [TextMate](https://macromates.com/) is recommended for Macs.
+
+  
+## Get the data
+
+
+You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+
+
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
-## Content coming soon - stay tuned!
+
 
 <!--
 
