@@ -1,8 +1,14 @@
 ---
 layout: default
 title: Introduction
-nav_order: 3
+nav_order: 2
 ---
+
+
+
+
+Proceed to the [Preparation](preparation) page to get the data and software you need for the tutorial.
+
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 ## Content coming soon - stay tuned!
