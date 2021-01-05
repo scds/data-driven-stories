@@ -1,19 +1,32 @@
 ---
 layout: default
-title: Part 1
+title: Part 1 - Explore the data
 nav_order: 4
 ---
 
 ## Open your data in a spreadsheet
-Once you've [dowloaded the data](preparation), import it into your spreadsheet software of choice. 
+If you haven't already downloaded and opened a properly-encoded version of the dataset, following the instructions on the [preparation page](preparation#get-the-data) before proceeding. 
+
+## Get to know the data
+Take some time to understand the data structure. What do the columns mean? What data types are there (categories, dates, numbers, etc.). 
+* Is the data in [wide or long](https://www.theanalysisfactor.com/wide-and-long-data/) format?
+* Explore some of the variables in each column. Activate the [column filters](https://support.google.com/docs/answer/3540681?co=GENIE.Platform%3DDesktop&hl=en) and inspect the unique values. Try sorting some of the numerical columns from highest to lowest (and vice-versa).
+* Undo your changes each time if you want to go back to the data's original order.
+
+## Exercises
+
+Now that you have some familiarity with the raw data, answer a few questions:
+1. Before doing any analysis, what do you think the data could tell you? What can't it tell you?
+2. Imagine the dataset is a human source. What questions would you ask of it during an interview?
 
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-## Content coming soon - stay tuned!
+Once you've completed the exercise, continue to [part 2](part2) to reshape and visualize the data.
+
+
+
 
 <!--
 
-After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
 
 ## Workshop recording
 
