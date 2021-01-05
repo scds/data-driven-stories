@@ -4,6 +4,10 @@ title: Part 1
 nav_order: 4
 ---
 
+## Open your data in a spreadsheet
+Once you've [dowloaded the data](preparation), import it into your spreadsheet software of choice. 
+
+
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 ## Content coming soon - stay tuned!
 
