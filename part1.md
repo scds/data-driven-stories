@@ -20,7 +20,7 @@ Now that you have some familiarity with the raw data, answer a few questions:
 2. Imagine the dataset is a human source. What questions would you ask of it during an interview?
 
 
-Once you've completed the exercise, continue to [part 2](part2) to reshape and visualize the data.
+Once you've completed the exercises, continue to [part 2](part2) to reshape and visualize the data.
 
 
 
