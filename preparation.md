@@ -51,4 +51,4 @@ If you are unable to open the csv with proper encoding, use one of the links bel
 * [Excel xlsx file](https://github.com/scds/data-driven-stories/raw/main/assets/data/2020_CA_Region_Mobility_Report.xlsx)
 * The original [csv file](https://github.com/scds/data-driven-stories/raw/main/assets/data/2020_CA_Region_Mobility_Report.csv), in case you can't download it. 
 
-Once you have the file open as a spreadsheet, proceed to [Part 1](part1) of the workshop to being exploring the data.
+Once you have the file open as a spreadsheet, proceed to [Part 1](part1) of the workshop to begin exploring the data.
