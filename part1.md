@@ -9,7 +9,7 @@ In this part, we'll investigate the data to consider its usefulness and how it m
 
 **Follow along with the video and the instructions beneath.**
 
-<iframe height="720" width="1280" allowfullscreen frameborder=0 src="https://echo360.ca/media/e7f7e32b-abb3-4ee9-aa87-f1943122a6b0/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/e7f7e32b-abb3-4ee9-aa87-f1943122a6b0/public?autoplay=false&automute=false"></iframe>
 
 
 ## Open your data in a spreadsheet
