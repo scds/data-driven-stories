@@ -6,7 +6,8 @@ nav_order: 6
 
 # Part 3: Scrutinize the data
 
-**Before going any further, think about the data's flaws**
+**Before going any further, let's consider the data's limitations, flaws, and biases**. Watch the video and complete the tasks described below.   
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/5049958c-516f-42a8-bf1e-f549f19a4b51/public?autoplay=false&automute=false"></iframe>  
 
 We like to think that data is truthful, that it's made of objective, hard, unfeeling numbers. This is a big misconception.
 
