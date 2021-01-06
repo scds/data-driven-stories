@@ -34,13 +34,15 @@ Source: Heather Krause, [Data Biographies: Getting to Know Your Data](https://gi
 |**Why**| For what purpose was the data collected?|
 |**When**| When was the data collected?|
 
+## Exercise
+* Write a bullet-point data biography for the Google mobility data, based on what you researched. How would this affect what conclusions you can make with it?
+* How would you communicate the data's uncertainty in your story?
 
+Once you've completed the exercises, continue to [part 4](part4) to explore the data visually using Tableau.
 
 
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-## Content coming soon - stay tuned!
-
 <!--
 
 After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
