@@ -4,6 +4,8 @@ title: Part 1 - Explore the data
 nav_order: 4
 ---
 
+# Part 1: Explore the data
+
 ## Open your data in a spreadsheet
 If you haven't already downloaded and opened a properly-encoded version of the dataset, following the instructions on the [preparation page](preparation#get-the-data) before proceeding. 
 

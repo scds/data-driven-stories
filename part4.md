@@ -4,6 +4,8 @@ title: Part 4 - Probe the data
 nav_order: 7
 ---
 
+# Part 4: Probe the data
+
 ## 1. Explore the data visually using Tableau
 
 Now that you understand the data deeply, you can start probing it for stories with more confidence. I suggest watching some [tutorial videos](https://public.tableau.com/en-us/s/resources) of Tableau to get a basic understanding of the tool. It's not complicated to learn.

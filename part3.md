@@ -4,6 +4,8 @@ title: Part 3 - Scrutinize the data
 nav_order: 6
 ---
 
+# Part 3: Scrutinize the data
+
 **Before going any further, think about the data's flaws**
 
 We like to think that data is truthful, that it's made of objective, hard, unfeeling numbers. This is a big misconception.

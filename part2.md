@@ -4,6 +4,8 @@ title: Part 2 - Visualize the data
 nav_order: 5
 ---
 
+# Part 2: Visualize the data
+
 In this part, we'll reshape the data into a more usable format and perform some preliminary data visualization to examine it.
 
 ## 1. Reshape the data to visualize it

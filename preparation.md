@@ -34,7 +34,7 @@ Google Sheets doesn't let you specify the encoding, so you have to re-encode the
 To do this in Notepad++: 
 * Open the csv file in Notepad++
 * Under the **Encoding** tab, choose **UTF-8 BOM**. Save the file.
-<img src="assets/img/notepad-encoding.png" alt="Window showing encoding change in Notepad++" width="500">
+<img src="assets/img/notepad-encoding.png" alt="Window showing encoding change in Notepad++" width="500" style="border: 2px solid black">
 
 * Import the converted file in Google Sheets by opening a new Google Sheet and selecting ```File>Import``` and uploading it.
 
@@ -44,7 +44,7 @@ In Excel, you can specify the character encoding at the time of import using the
 * In the **Data** tab, select to import **From Text/CSV**
 * When the import wizard appears, change the value of **File Origin** to ```650001: Unicode (UTF-8)```
 * Click **Load** to import it into the spreadsheet
-<img src="assets/img/excel-import.png" alt="Excel data import tool window" width="500">
+<img src="assets/img/excel-import.png" alt="Excel data import tool window" width="500" style="border: 2px solid black">
 
 ### If you run into trouble
 If you are unable to open the csv with proper encoding, use one of the links below to get a properly encoded version: 
