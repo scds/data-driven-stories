@@ -15,20 +15,20 @@ Now that you understand the data deeply, you can start probing it for stories wi
 Change that in the dropdown menu to the exact date.
 * Drag the ```retail_and_recreation_percent_change_from_baseline``` column to the **Rows** shelf, and the ```sub_region_1``` column to the **Color** shelf. 
 * Now drag ```sub_region_2``` to the **Filters** shelf and be sure to only select the **Null** (or blank) rows.  
-<img src="assets/img/tableau-filtering.png" alt="Tableau filtering window" width="400" style="border: 2px solid black">
+<img src="assets/img/tableau-filtering.png" alt="Tableau filtering window" width="400" style="border: 1px solid darkgrey">
 
 The correct, filtered chart should look like this:  
-<img src="assets/img/tableau-chart.png" alt="Tableau window showing line graphs" width="600" style="border: 2px solid black">
+<img src="assets/img/tableau-chart.png" alt="Tableau window showing line graphs" width="600" style="border: 1px solid darkgrey">
 
 Still as noisy as before, but it was much quicker to make! Now we'll make it easier to read using a powerful Tableau feature called a **Table Calculation**.
 
 * Click on the drown-down menu of the **Rows** shelf and choose **Quick table calculation -> Moving average**. It will add a two-day moving average by default, slightly smoothing the lines. 
 * Change the moving average to a 6-day average.
 * Open the same menu and choose **Edit table calculation**. In the second menu, change the value of **Previous values** to 6, then close that window.  
-<img src="assets/img/tableau-table-calculation.png" alt="Tableau table calculation window" width="300" style="border: 2px solid black">
+<img src="assets/img/tableau-table-calculation.png" alt="Tableau table calculation window" width="300" style="border: 1px solid darkgrey">
 
 You should now have smoothed lines that are much easier to read and find patterns! You might also want to drag ```sub_region_1``` to the **Filters** box and uncheck the **Null** box, so you only have lines for provinces.  
-<img src="assets/img/tableau-chart-clean.png" alt="Tableau window showing line graphs" width="600" style="border: 2px solid black">
+<img src="assets/img/tableau-chart-clean.png" alt="Tableau window showing line graphs" width="600" style="border: 1px solid darkgrey">
 
 And you even have a chart that you can include in your story, though I suggest giving the chart a design makeover. Charts are powerful storytelling devices, but they need to be well-designed.
 

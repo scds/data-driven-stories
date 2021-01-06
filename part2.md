@@ -26,30 +26,30 @@ To restructure the data, we will use a [Pivot table](https://support.google.com/
 
 #### In Google Sheets
 * Create new pivot table (```>Data>Pivot Table```). Insert it into a new sheet.  
-<img src="assets/img/create-pivot-table.PNG" alt="Create pivot table window in Google Sheets" width="300" style="border: 2px solid black">  
+<img src="assets/img/create-pivot-table.PNG" alt="Create pivot table window in Google Sheets" width="300" style="border: 1px solid darkgrey">  
 
 * For **Rows**, select the ```date``` column. Uncheck *Show totals*.
 * For **Columns**, select the ```sub_region_1``` column. Uncheck *Show totals*.
 * For **Values**, add the ```retail_and_recreation_percent_change_from_baseline``` column.
 * For **Filters**, add the ```sub_region_2``` column. In the **Status** dropdown, make sure only ```(Blanks)``` is checked.  
 
-<img src="assets/img/pivot-table-filter.png" alt="pivot table filter window in Google Sheets" width="250" style="border: 2px solid black">  
+<img src="assets/img/pivot-table-filter.png" alt="pivot table filter window in Google Sheets" width="250" style="border: 1px solid darkgrey">  
 
 You now have the reshaped data ready to be piped into a chart. It should look like this:  
-<img src="assets/img/pivot-table.png" alt="pivot table in Google Sheets" width="500" style="border: 2px solid black">  
+<img src="assets/img/pivot-table.png" alt="pivot table in Google Sheets" width="500" style="border: 1px solid darkgrey">  
 
 #### In Excel
 Create new pivot table (```>Insert>PivotChart>PivotChart & PivotTable```). Insert it into a *New Worksheet*.
-<img src="assets/img/excel-create-pivot-table.png" alt="Create pivot table window in Excel" width="500" style="border: 2px solid black">  
+<img src="assets/img/excel-create-pivot-table.png" alt="Create pivot table window in Excel" width="500" style="border: 1px solid darkgrey">  
 In the PivotTable Fields box, do the following: 
 * Drag the ```date``` variable to the **Rows** box. Click and remove ```date (Year)```, ```date (Quarter)```, ```date (Month)```, so that only ```date``` remains.
 * Drag the ```sub_region_1``` variable to the **Columns** box.
 * Drag the ```retail_and_recreation_percent_change_from_baseline``` variable to the **Values** box.
 * Drag the ```sub_region_2``` variable to the **Filters** box. 
 * Click the dropdown symbol beside ```sub_region_2``` in the variable list. Check the **Select Multiple Items** box, clear all check marks except for the blank entry (see below). Click OK.
-<img src="assets/img/excel-pivot-table-setup.png" alt="pivot table setup in Excel" width="700" style="border: 2px solid black">  
+<img src="assets/img/excel-pivot-table-setup.png" alt="pivot table setup in Excel" width="700" style="border: 1px solid darkgrey">  
 * Your PivotTable Fields box should look like the following:   
-  <img src="assets/img/excel-pivot-table.png" alt="pivot table in Excel" width="500" style="border: 2px solid black">  
+  <img src="assets/img/excel-pivot-table.png" alt="pivot table in Excel" width="500" style="border: 1px solid darkgrey">  
 
 ## 2. Plot the data to visualize it
 #### In Google Sheets
@@ -58,7 +58,7 @@ To create a line graph, do the following:
 * Go to ```Insert-->Chart```. A line chart should automatically create, with one line for each province.
 
 It should look like this:  
-<img src="assets/img/google-plot.png" alt="line graph in Google Sheets" width="500" style="border: 2px solid #555" style="border: 2px solid black">  
+<img src="assets/img/google-plot.png" alt="line graph in Google Sheets" width="500" style="border: 2px solid #555" style="border: 1px solid darkgrey">  
 
 #### In Excel
 A figure (bar graph) will have already been created within your Pivot Table. To turn it into a line graph: 
@@ -66,7 +66,7 @@ A figure (bar graph) will have already been created within your Pivot Table. To 
 * Select **Line** and click OK.
 
 It should look like this:  
-<img src="assets/img/excel-plot.png" alt="line graph in Excel" width="500" style="border: 2px solid black">  
+<img src="assets/img/excel-plot.png" alt="line graph in Excel" width="500" style="border: 1px solid darkgrey">  
 
 ## 3. Explore the trends 
 There are some general trends that can be identified in the data, but overall, it is too noisy and not very helpful. There are too many overlapping lines and the weekend spikes make it hard to tease out the individual provinces (you read the data's documentation to understand why this happens, right?).
