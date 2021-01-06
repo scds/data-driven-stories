@@ -24,7 +24,7 @@ To restructure the data, we will use a [Pivot table](https://support.google.com/
 
 #### In Google Sheets
 * Create new pivot table (```>Data>Pivot Table```). Insert it into a new sheet.  
-<img src="assets/img/create-pivot-table.PNG" alt="Create pivot table window in Google Sheets" width="300" border="2px">  
+<img src="assets/img/create-pivot-table.PNG" alt="Create pivot table window in Google Sheets" width="300" style="border: 3px solid black">  
 
 * For **Rows**, select the ```date``` column. Uncheck *Show totals*.
 * For **Columns**, select the ```sub_region_1``` column. Uncheck *Show totals*.
