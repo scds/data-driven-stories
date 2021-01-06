@@ -28,7 +28,7 @@ Think about making a [data biography](https://gijn.org/2017/03/27/data-biographi
 
 Source: Heather Krause, [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 
-|      |      |
+|**Dimension**|**Questions/Considerations**|
 |:-----|:-----|
 |**Who**| Who collected the data?<br>Who owns the data?| 
 |**How**| The methods behind the data collection design and process<br>The Statistics behind the data cleaning<br>The algorithms behind the data processing|
