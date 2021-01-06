@@ -50,5 +50,6 @@ In Excel, you can specify the character encoding at the time of import using the
 If you are unable to open the csv with proper encoding, use one of the links below to get a properly encoded version: 
 * [Google Sheets file](https://docs.google.com/spreadsheets/d/1IbTXQFJ4JPQB4OS2TwrUu-QpbJJl5t8Ntc40sh7udO0/copy); Click **Make a copy**.
 * [Excel xlsx file](https://github.com/scds/data-driven-stories/raw/main/assets/data/2020_CA_Region_Mobility_Report.xlsx)
+* The original [csv file](https://github.com/scds/data-driven-stories/raw/main/assets/data/2020_CA_Region_Mobility_Report.csv), in case you can't download it. 
 
 Once you have the file open as a spreadsheet, proceed to [Part 1](part1) of the workshop to being exploring the data.
