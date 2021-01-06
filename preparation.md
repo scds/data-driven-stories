@@ -18,6 +18,10 @@ Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any dif
 ## Get the data
 For this workshop, we'll be working with Google mobility data made available through the Google [COVID-19 Community Mobility Reports website](https://www.google.com/covid19/mobility/). 
 
+Follow along with the video or the instructions listed below. 
+
+<iframe height="720" width="1280" allowfullscreen frameborder=0 src="https://echo360.ca/media/b9737358-0c98-450f-99cf-bd25bb3c53a4/public?autoplay=false&automute=false"></iframe>
+
 Before downloading data, take some time to explore the website. Read the [documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en). Understand a bit what's in the data, what to expect, how it was collected. 
 
 You can download the dataset for this workshop by clicking on the **Region CSVs** link. It will download a zip file with detailed data for every country tracked by Google. For this workshop, we're interested only in the Canadian dataset (```2020_CA_Region_Mobility_Report.csv```). Once the file is downloaded, unzip the whole folder, or drag out the Canadian file into another folder to extract the single file. 
