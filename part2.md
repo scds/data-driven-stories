@@ -91,8 +91,6 @@ Once you've completed the exercises, continue to [part 3](part3) to consider the
 
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-## Content coming soon - stay tuned!
-
 <!--
 
 After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
