@@ -6,7 +6,8 @@ nav_order: 5
 
 # Part 2: Wrangle the data
 
-In this part, we'll reshape the data into a more usable format and perform some preliminary data visualization to examine it.
+In this part, we'll reshape the data into a more usable format and perform some preliminary data visualization to examine it. Watch the video and complete the tasks described below.   
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a725d96b-1afc-48a8-b11c-a0c8af010b01/public?autoplay=false&automute=false"></iframe>  
 
 ## 1. Reshape the data to visualize it
 
