@@ -6,7 +6,7 @@ nav_order: 8
 
 # Part 1: Build a story
 In the [last part](part4), we generated the following figure and began to identify some possible angles for stories:  
-<img src="assets/img/tableau-chart-clean.png" alt="Tableau window showing line graphs" width="600" style="border: 2px solid black">
+<img src="assets/img/tableau-chart-clean.png" alt="Tableau window showing line graphs" width="600" style="border: 1px solid black">
 
 Now, we'll build a story with (and around) the data.
 
@@ -30,14 +30,17 @@ At this point, you could probably write a fairly cut and dry report with a bunch
 Take a look at some of these data-driven stories that were created recently. They involved months of research, data collection and standardization, and painstaking analysis. But none of them opened with a statistic.
 
 ---
+
 <img src="assets/img/bias-behind-bars1.png" alt="News article image" width="512">
 <img src="assets/img/bias-behind-bars2.png" alt="News article opening line" width="512">  
 Source: [The Globe and Mail](https://www.theglobeandmail.com/canada/article-investigation-racial-bias-in-canadian-prison-risk-assessments/)
 
 ---
+
 <img src="assets/img/deadly-force1.png" alt="News article image" width="512">
 <img src="assets/img/deadly-force2.png" alt="News article opening line" width="512">  
 Source: [CBC News](https://newsinteractives.cbc.ca/longform-custom/deadly-force) 
+
 ---
 
 The human brain is wired to pay attention to stories. It's how humans passed on knowledge for millenia, since we sat around a fire talking about the day's hunt.
