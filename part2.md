@@ -54,15 +54,15 @@ To create a line graph, do the following:
 * Highlight the useful part of the pivot table, from cell A2 to the last cell (O300+). **Tip**: you can select the first cell, scroll down to the last one, hold Shift and select that last cell.
 * Go to ```Insert-->Chart```. A line chart should automatically create, with one line for each province.
 
-It should look like this:
-<img src="assets/img/google-plot.png" alt="line graph in Google Sheets" width="500">  
+It should look like this:  
+<img src="assets/img/google-plot.png" alt="line graph in Google Sheets" width="500" style="border: 2px solid #555">  
 
 #### In Excel
 A figure (bar graph) will have already been created within your Pivot Table. To turn it into a line graph: 
 * Right click on a white area of the chart and select **Change Chart Type...**
 * Select **Line** and click OK.
 
-It should look like this:
+It should look like this:  
 <img src="assets/img/excel-plot.png" alt="line graph in Excel" width="500">  
 
 ## 3. Explore the trends 
