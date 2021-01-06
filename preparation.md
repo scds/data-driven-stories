@@ -3,7 +3,6 @@ layout: default
 title: Preparation
 nav_order: 3
 ---
-## Content coming soon - stay tuned!
 
 # Workshop preparation 
 This workshop assumes you have a basic knowledge of spreadsheets and some basic math/stats knowledge. Preparing for this workshop consists of two steps: [Getting the software](#get-the-software) and [Getting the data](#get-the-data). Follow the steps below. 
