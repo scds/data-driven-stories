@@ -6,7 +6,7 @@ nav_order: 5
 
 In this part, we'll reshape the data into a more usable format and perform some preliminary data visualization to examine it.
 
-## Reshape the data to visualize it
+## 1. Reshape the data to visualize it
 
 We want to plot the retail and recreation column for each Canadian province over time. We can do this right inside the spreadsheet.
 
@@ -48,7 +48,7 @@ In the PivotTable Fields box, do the following:
 * Your PivotTable Fields box should look like the following:   
   <img src="assets/img/excel-pivot-table.png" alt="pivot table in Excel" width="500">  
 
-## Plot the data to visualize it
+## 2. Plot the data to visualize it
 #### In Google Sheets
 To create a line graph, do the following: 
 * Highlight the useful part of the pivot table, from cell A2 to the last cell (O300+). **Tip**: you can select the first cell, scroll down to the last one, hold Shift and select that last cell.
@@ -62,12 +62,15 @@ A figure (bar graph) will have already been created within your Pivot Table. To 
 * Right click on a white area of the chart and select **Change Chart Type...**
 * Select **Line** and click OK.
 
-## Exploring trends 
+It should look like this:
+<img src="assets/img/excel-plot.png" alt="line graph in Excel" width="500">  
+
+## 3. Explore the trends 
 There are some general trends that can be identified in the data, but overall, it is too noisy and not very helpful. There are too many overlapping lines and the weekend spikes make it hard to tease out the individual provinces (you read the data's documentation to understand why this happens, right?).
 
 This data needs to be smoothed using something like a moving average. We can do this in Google Sheets with formulas, but let's move to a more robust data exploration tool: **Tableau**.
 
-## Exercises 
+## 4. Exercises 
 You now have even more familiarity with the data, and a rough idea of what it has to say. Answer these questions:
 
 1. What are some issues that could prevent you from getting clear answers to the questions you came up with Part 1?
