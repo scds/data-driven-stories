@@ -5,6 +5,12 @@ nav_order: 4
 ---
 
 # Part 1: Explore the data
+In this part, we'll investigate the data to consider its usefulness and how it may need to be transformed before we can do more in-depth analyses.
+
+**Follow along with the video and the instructions beneath.**
+
+<iframe height="720" width="1280" allowfullscreen frameborder=0 src="https://echo360.ca/media/e7f7e32b-abb3-4ee9-aa87-f1943122a6b0/public?autoplay=false&automute=false"></iframe>
+
 
 ## Open your data in a spreadsheet
 If you haven't already downloaded and opened a properly-encoded version of the dataset, following the instructions on the [preparation page](preparation#get-the-data) before proceeding. 
