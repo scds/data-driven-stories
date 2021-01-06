@@ -34,7 +34,7 @@ Source: Heather Krause, [Data Biographies: Getting to Know Your Data](https://gi
 |**Why**| For what purpose was the data collected?|
 |**When**| When was the data collected?|
 
-## Exercise
+## Exercises
 * Write a bullet-point data biography for the Google mobility data, based on what you researched. How would this affect what conclusions you can make with it?
 * How would you communicate the data's uncertainty in your story?
 
