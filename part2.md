@@ -29,7 +29,8 @@ To restructure the data, we will use a [Pivot table](https://support.google.com/
 * For **Rows**, select the ```date``` column. Uncheck *Show totals*.
 * For **Columns**, select the ```sub_region_1``` column. Uncheck *Show totals*.
 * For **Values**, add the ```retail_and_recreation_percent_change_from_baseline``` column.
-* For **Filters**, add the ```sub_region_2``` column. In the **Status** dropdown, make sure only ```(Blanks)``` is checked.
+* For **Filters**, add the ```sub_region_2``` column. In the **Status** dropdown, make sure only ```(Blanks)``` is checked.  
+
 <img src="assets/img/pivot-table-filter.png" alt="pivot table filter window in Google Sheets" width="250" style="border: 2px solid black">  
 
 You now have the reshaped data ready to be piped into a chart. It should look like this:  
