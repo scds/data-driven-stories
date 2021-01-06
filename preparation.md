@@ -20,7 +20,7 @@ For this workshop, we'll be working with Google mobility data made available thr
 
 Follow along with the video or the instructions listed below. 
 
-<iframe height="720" width="1280" allowfullscreen frameborder=0 src="https://echo360.ca/media/b9737358-0c98-450f-99cf-bd25bb3c53a4/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/b9737358-0c98-450f-99cf-bd25bb3c53a4/public?autoplay=false&automute=false"></iframe>
 
 Before downloading data, take some time to explore the website. Read the [documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en). Understand a bit what's in the data, what to expect, how it was collected. 
 
