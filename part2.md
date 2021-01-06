@@ -36,7 +36,7 @@ You now have the reshaped data ready to be piped into a chart. It should look li
 
 #### In Excel
 * Create new pivot table (```>Insert>PivotChart>PivotChart & PivotTable```). Insert it into a *New Worksheet*.
-<img src="assets/img/excel-create-pivot-table.PNG" alt="Create pivot table window in Excel" width="500">  
+<img src="assets/img/excel-create-pivot-table.png" alt="Create pivot table window in Excel" width="500">  
 * In the PivotTable Fields box, do the following: 
   * Drag the ```date``` variable to the **Rows** box. Click and remove ```date (Year)```, ```date (Quarter)```, ```date (Month)```, so that only ```date``` remains.
   * Drag the ```sub_region_1``` variable to the **Columns** box.
