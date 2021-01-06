@@ -4,7 +4,7 @@ title: Part 5 - Build a story
 nav_order: 8
 ---
 
-# Part 1: Build a story
+# Part 5: Build a story
 In the [last part](part4), we generated the following figure and began to identify some possible angles for stories:  
 <img src="assets/img/tableau-chart-clean.png" alt="Tableau window showing line graphs" width="600" style="border: 1px solid darkgrey">
 
