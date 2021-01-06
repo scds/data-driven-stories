@@ -23,6 +23,7 @@ These questions need to be researched and answered before using the data. At the
 Think about making a [data biography](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) for this dataset, by answering the following questions:
 
 <img src="assets/img/data-biography.png" alt="Data biography questions" width="600" style="border: 2px solid black">  
+
 Source: Heather Krause, [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 
 |      |      |
