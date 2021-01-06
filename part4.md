@@ -8,7 +8,9 @@ nav_order: 7
 
 ## 1. Explore the data visually using Tableau
 
-Now that you understand the data deeply, you can start probing it for stories with more confidence. I suggest watching some [tutorial videos](https://public.tableau.com/en-us/s/resources) of Tableau to get a basic understanding of the tool. It's not complicated to learn.
+Now that you understand the data deeply, you can start probing it for stories with more confidence. I suggest watching some [tutorial videos](https://public.tableau.com/en-us/s/resources) of Tableau to get a basic understanding of the tool. It's not complicated to learn. Watch the video and complete the tasks described below.
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/e80cda6b-e45d-46e8-ba5a-e3cf8b91e269/public?autoplay=false&automute=false"></iframe>
 
 * Open Tableau Public and import the same [CSV file](https://github.com/scds/data-driven-stories/raw/main/assets/data/2020_CA_Region_Mobility_Report.csv) you imported into the spreadsheet. Refer to the video for specific steps. Tableau works well with long data, so no need to reshape it. 
 * To recreate the same chart from the previous steps, drag the ```Date``` column to the **Columns** shelf. Tableau aggregates things to the largest unit, so it will group the date into years. 
