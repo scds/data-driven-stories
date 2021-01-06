@@ -1,11 +1,19 @@
 ---
 layout: default
 title: Learn More
-nav_order: 10
+nav_order: 9
 ---
 
+## More Resources
+
+* [Mastering Data Storytelling: 5 Steps to Creating Persuasive Charts and Graphs](https://www.crazyegg.com/blog/data-storytelling-5-steps-charts/)
+* [Giving data soul: best practices for ethical data journalism](https://datajournalism.com/read/longreads/giving-data-soul-best-practices-for-ethical-data-journalism)
+* (Free self-direct course) [Equity & ethics in data journalism: Hands-on approaches to getting your data right](https://journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/v)
+* (Paid Stanford online course) [Data-Driven Storytelling: From Evidence to Impact](https://online.stanford.edu/courses/xdgt222-data-driven-storytelling-evidence-impact)
+
+
+
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-## Content coming soon - stay tuned!
 
 <!--
 
