@@ -62,12 +62,19 @@ Choose one of your story ideas and write a more detailed story plan:
 * What questions would you ask of them that would lead to interesting and representative anecdotes?
 
 ## 5. Now, write your story 
-
 This is where everything comes together, where you assemble your takeaways, supporting evidence and interviews into a compelling narrative. 
 
+You can structure this in many ways. The two main approaches used in news writing are:
+
+1. The newsy lede: Start with your main takeaway, answering the what, when, where. Then use your character to weave in the why and how.
+2. The anecdotal lede: Start with an anecdote involving one of your characters, but don't take too long to reveal the main takeaway.
+
+[Here's an example](https://www.cbc.ca/news/canada/covid-19-coronavirus-pandemic-countries-response-1.5617898) of the second approach, using countries as characters.
+
 ## 6. Exercise
-* Write a first paragraph that would draw people in with a human anecdote.
+* Write the first two paragraphs, where you draw people in with a human anecdote and use that to illustrate your main finding.
 * Write a detailed outline of the rest of your report.
+
 
 Once you've completed this part, see the [Learn More](learn-more) page for more resources.
 
