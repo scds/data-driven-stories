@@ -23,8 +23,8 @@ To restructure the data, we will use a [Pivot table](https://support.google.com/
 **Note** that the following steps are for Google Sheets; Excel  but a similar approach  (more info for [Google Sheets], [Excel](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)) and the following steps:
 
 #### In Google Sheets
-* Create new pivot table (```>Data>Pivot Table```). Insert it into a new sheet.
-<img src="assets/img/create-pivot-table.PNG" alt="Create pivot table window in Google Sheets" width="300">  
+* Create new pivot table (```>Data>Pivot Table```). Insert it into a new sheet.  
+<img src="assets/img/create-pivot-table.png" alt="Create pivot table window in Google Sheets" width="300">  
 * For **Rows**, select the ```date``` column. Uncheck *Show totals*.
 * For **Columns**, select the ```sub_region_1``` column. Uncheck *Show totals*.
 * For **Values**, add the ```retail_and_recreation_percent_change_from_baseline``` column.
@@ -32,9 +32,24 @@ To restructure the data, we will use a [Pivot table](https://support.google.com/
 <img src="assets/img/pivot-table-filter.png" alt="pivot table filter window in Google Sheets" width="250">  
 
 You now have the reshaped data ready to be piped into a chart. It should look like this:  
-<img src="assets/img/pivot-table.png" alt="pivot table in Google Sheets" width="300">  
+<img src="assets/img/pivot-table.png" alt="pivot table in Google Sheets" width="500">  
 
 #### In Excel
+* Create new pivot table (```>Insert>PivotChart>PivotChart & PivotTable```). Insert it into a *New Worksheet*.
+<img src="assets/img/excel-create-pivot-table.PNG" alt="Create pivot table window in Excel" width="500">  
+* In the PivotTable Fields box, do the following: 
+  * Drag the ```date``` variable to the **Rows** box. Click and remove ```date (Year)```, ```date (Quarter)```, ```date (Month)```, so that only ```date``` remains.
+  * Drag the ```sub_region_1``` variable to the **Columns** box.
+  * Drag the ```retail_and_recreation_percent_change_from_baseline``` variable to the **Values** box.
+  * Drag the ```sub_region_2``` variable to the **Filters** box. 
+  * Click the dropdown symbol beside ```sub_region_2``` in the variable list. Check the **Select Multiple Items** box, clear all check marks except for the blank entry (see below). Click OK.
+<img src="assets/img/excel-pivot-table-setup.png" alt="pivot table setup in Excel" width="500">    
+  
+* Your PivotTable Fields box should look like the following:   
+  <img src="assets/img/excel-pivot-table.png" alt="pivot table in Excel" width="500">  
+
+
+You now have the reshaped data ready to be piped into a chart. It should look like this:  
 
 
 
