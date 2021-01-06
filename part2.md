@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Part 2 - Visualize the data
+title: Part 2 - Wrangle the data
 nav_order: 5
 ---
 
-# Part 2: Visualize the data
+# Part 2: Wrangle the data
 
 In this part, we'll reshape the data into a more usable format and perform some preliminary data visualization to examine it.
 
@@ -68,7 +68,7 @@ A figure (bar graph) will have already been created within your Pivot Table. To 
 It should look like this:  
 <img src="assets/img/excel-plot.png" alt="line graph in Excel" width="500" style="border: 1px solid darkgrey">  
 
-## 3. Explore the trends 
+## 3. Begin to explore trends 
 There are some general trends that can be identified in the data, but overall, it is too noisy and not very helpful. There are too many overlapping lines and the weekend spikes make it hard to tease out the individual provinces (you read the data's documentation to understand why this happens, right?).
 
 This data needs to be smoothed using something like a moving average. We can do this in Google Sheets with formulas, but let's move to a more robust data exploration tool: **Tableau**.
