@@ -8,7 +8,9 @@ nav_order: 8
 In the [last part](part4), we generated the following figure and began to identify some possible angles for stories:  
 <img src="assets/img/tableau-chart-clean.png" alt="Tableau window showing line graphs" width="600" style="border: 1px solid darkgrey">
 
-Now, we'll build a story with (and around) the data.
+Now, we'll build a story with (and around) the data. Watch the video and complete the tasks described below.
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4853f34a-53cb-488c-807e-f670008a1b17/public?autoplay=false&automute=false"></iframe>
 
 ## 1. Find corroborating evidence to support your claims
 If this was a news story, all the steps up to now would really be just the start of the research. I have my story angle and I have some visuals I can include. But this isn't enough.
