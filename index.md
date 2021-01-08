@@ -30,4 +30,4 @@ In general, the steps are:
 4. Do a more in-depth exploratory visualization using analysis software like Tableau Public
 5. Identify possible story angles and find characters to humanize the numbers
 
-Proceed to the [Keynote](keynote) for a discussion of how data and storytelling have been used together to educate the public on the COVID-19 pandemic.
+Proceed to the [Keynote](keynote) page for a discussion of how data and storytelling have been used together to educate the public on the COVID-19 pandemic.
