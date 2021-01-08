@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Introduction
 description: Relevant Research Series
 nav_order: 1
 ---
@@ -30,4 +30,4 @@ The steps are:
 5. Identify possible story angles and finding characters to humanize the numbers
 
 
-Proceed to the [Introduction](introduction) page to watch the introductory keynote talk.
+Proceed to the [Keynote](keynote) page to watch the keynote talk.
