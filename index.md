@@ -12,7 +12,7 @@ nav_order: 1
 # Telling a data-driven story from start to finish.
 **A Relevant Research Series workshop prepared by [Roberto Rocha](https://robertorocha.info/), Data Journalist, [CBC/Radio Canada](https://www.cbc.ca/news/canada/montreal/roberto-rocha-1.3527929)**.
 
-In this workshop, you'll be taken through the steps of creating a data-driven story, from obtaining the data, to writing an outline of a final report. Every step of the way you'll be asked to think about the storytelling elements.  
+In this workshop, you'll be taken through the steps of creating a data-driven story, from obtaining the data, to making sense of it, to writing an outline of a final article. Each step of the way, you'll be prompted to consider and implement storytelling elements in the service of creating a data-driven story.  
 
 ***Why is storytelling so important?***
 
