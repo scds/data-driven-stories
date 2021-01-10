@@ -10,9 +10,7 @@ nav_order: 2
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/bcf13f7b-a88d-4e09-885a-fd4205ad9cad/public?autoplay=false&automute=false"></iframe>
 
----
-
-Now that you've watched the keynote, head to the [Preparation](preparation) page to get the data and software you need for the tutorial.
+**Ready to start the workshop?** Head to the [Preparation](preparation) page to get the data and software you'll need.
 
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
