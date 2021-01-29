@@ -77,7 +77,8 @@ You can structure this in many ways. The two main approaches used in news writin
 * Write the first two paragraphs, where you draw people in with a human anecdote and use that to illustrate your main finding.
 * Write a detailed outline of the rest of your report.
 
+Once you've completed this part, watch the [Q & A session](discussion) with Roberto Rocha to hear him discuss the concepts covered in this workshop.
 
-Once you've completed this part, see the [Learn More](learn-more) page for more resources.
-
+<!--
 Consider joining Mr. Rocha for an in-person Q&A and drop-in session taking place from 1:00 to 3:00 pm ET on January 28, 2021. **Register [here](https://u.mcmaster.ca/dds-qa)**.
+-->
