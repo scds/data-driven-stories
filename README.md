@@ -1,7 +1,7 @@
 # Data-Driven Stories
 Materials for the Relevant Research workshop: **Data-Driven Stories**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/data-driven-stories) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/data-driven-stories) with GitHub Pages.
 
 
 Contributions by the following individuals: 
