@@ -1,7 +1,7 @@
 title: Data-Driven Stories # *** Enter workshop title here 
 subtitle: 'Relevant Research Series'
 
-remote_theme: scds/just-the-docs
+remote_theme: scds/jtd-mcmaster
 github_repo_url: "https://scds.github.io/data-driven-stories/" # ***Enter workshop URL (in github pages) here
 color_scheme: mcmaster
 # logo: "https://github.com/scds/intro-voyant/blob/main/assets/img/dmds-tableau.png?raw=true"
@@ -12,6 +12,16 @@ color_scheme: mcmaster
 # Supports true (default) or false
 heading_anchors: true
 
+nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
+nav_footer_logo_bottom_href: "https://scds.ca/"
+nav_footer_logo_top: "/assets/img/logo.png"
+nav_footer_logo_top_href: "https://scds.ca/events/relevant-research/"
+
+aux_links:
+  "SCDS Workshops": 
+    - "https://scds.ca/searchable-online-learning/"
+
+navigation: true
 
 # Footer content
 # appears at the bottom of every page's main content
